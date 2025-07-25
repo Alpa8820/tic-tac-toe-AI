@@ -23,7 +23,7 @@ A command-line (unbeatable) Tic Tac Toe AI game implemented in Rust. This projec
 Clone the repository and build the project:
 
 ```sh
-git clone https://github.com/0xTijan/tic-tac-toe-ai.git
+git clone https://github.com/Alpa8820/tic-tac-toe-ai.git
 cd tic-tac-toe-ai
 cargo build
 ```
@@ -69,4 +69,4 @@ Unlike Minimax, **MCTS uses simulations** to statistically determine the best mo
 - [MCTS explanation (YouTube)](https://www.youtube.com/watch?v=UXW2yZndl7U)
 
 ## Contact
-For questions or suggestions, reach out via GitHub or email at [tijan@tijan.dev](mailto:tijan@tijan.dev) or visit [my website](https://tijan.dev/).
+For questions or suggestions, reach out via GitHub or email at [alpa26846@mgail.com](mailto:alpa26846@mgail.com) or visit [my website](https://hayasetakumi.vercel.app/?l=en).
